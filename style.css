@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: white;
+    margin-bottom: -6px;
+}
+#top{
+    background-color: rgb(97, 97, 238);
+}
+#links{
+    text-align: center;
+}
+body{
+    margin-top: -22px;
+}
+#first,#second,#third{
+    color:red;
+}
+h2{
+    text-align: center;
+}
+#footerlinks{
+    text-align: center;
+}
+#down{
+    background-color: rgb(97, 97, 238);
+}
+h3{
+    color:white;
+}
